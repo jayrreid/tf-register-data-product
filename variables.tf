@@ -9,5 +9,5 @@ variable "datalake_abbreviation" {
 }
 
 variable "s3bucket_name" {
-  default = "lf-datalake-${var.datalake_abbreviation}"
+  default = "lf-datalake-3740"
 }
